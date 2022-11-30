@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    background-color: chocolate;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+}
+ul li {
+    background-color: dodgerblue;
+    color: aquamarine;
+}
